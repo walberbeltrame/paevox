@@ -1,0 +1,11 @@
+.board {
+  border-collapse: collapse;
+}
+
+.board > tr, td {
+  border: 5px solid black;
+  padding: 50px;
+  font-size: 48px;
+  font-weight: Bold;
+  font-family: sans-serif;
+}
